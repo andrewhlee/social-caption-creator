@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Bash(npm --version)",
+      "Bash(npx --yes create-next-app@14 --help)",
+      "Bash(npm show:*)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --no-import-alias --yes)"
+    ]
+  }
+}
