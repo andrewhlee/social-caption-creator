@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# knowledge base data (keep directory, not contents)
+/data/knowledge-base/entries.json
